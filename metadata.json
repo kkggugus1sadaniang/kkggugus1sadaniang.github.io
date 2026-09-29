@@ -1,0 +1,6 @@
+{
+  "name": "Portal Link & Sertifikat KKG",
+  "description": "Generator, tautan unduh instan, dan verifikasi sertifikat resmi Kelompok Kerja Guru (KKG) dengan QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
